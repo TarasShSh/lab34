@@ -10,9 +10,9 @@ using namespace std;
 
 int main()
 {
+	double R;
 	double x;
 	double y;
-	double R;
 
 	cout << "R = "; cin >> R;
 	cout << "x = "; cin >> x;
